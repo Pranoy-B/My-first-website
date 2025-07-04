@@ -1,0 +1,12 @@
+div {
+    background-color: aquamarine;
+    border: 2px solid royalblue;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+p {
+    background-color: azure;
+    border-radius: 5px;
+    padding: 5px;
+}
